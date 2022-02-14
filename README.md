@@ -14,8 +14,8 @@ If you are associated with `QA ltd` as a trainee, trainer or any other role - we
 <details>
 <summary>Resources</summary>
 
-Repos of interest:
-  
+ ### Repo listings:
+
 |  Git Practice Repositories     | Network Graph link |
 | :---  | :--- |
 | [Git Feature-Branch Model (Simple)](https://github.com/MorickClive/Vale-Git-Practice) | [Network Graph](https://github.com/MorickClive/Vale-Git-Practice/network) |
