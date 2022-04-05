@@ -1,6 +1,14 @@
 # Morick Clive's GitHub 
 
-Hi there, This current splash is still WIP - it'll be updated with a bit more information soon!
+Hi there!
+
+Welcome to the heap of repositories that form the insight into my coding practices & developments.
+
+> Currently I'm working on my "Vale Project" as a refresher project to maintain my skills and explore new programming techniques.
+> You can view this endeavour and it's sub repositories here: 
+> ### [> Vale Project (Java, SQL, Spring)](https://github.com/MorickClive/Project-Vale)
+
+---
 
 ## Stats
 
