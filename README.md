@@ -6,7 +6,7 @@ Welcome to the heap of repositories that form the insight into my coding practic
 
 > Currently I'm working on my "Vale Project" as a refresher project to maintain my skills and explore new programming techniques.
 > You can view this endeavour and it's sub repositories here: 
-> ### [> Vale Project:</br>- Java</br>- JDBC, SQL</br>- Spring API</br>- HTML/CSS</br>- JS, React](https://github.com/MorickClive/Project-Vale#project-vale)
+> ### [> Vale Project:</br>Java | JDBC, SQL | Spring API | HTML/CSS | JS, React](https://github.com/MorickClive/Project-Vale#project-vale)
 
 ---
 
