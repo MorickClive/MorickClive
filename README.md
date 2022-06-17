@@ -8,6 +8,9 @@ Welcome to the heap of repositories that form the insight into my coding practic
 > You can view this endeavour and it's sub repositories here: 
 > ### [> Vale Project:</br>Java | JDBC, SQL | Spring API | HTML/CSS | JS, React](https://github.com/MorickClive/Project-Vale#project-vale)
 
+Additionally, I'm investigating and building up a face page of skills I work with as part of the gitpages feature of github, you can review this page here:
+##### [Git Hub Host](https://morickclive.github.io/)
+
 ---
 
 ## Stats
