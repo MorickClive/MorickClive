@@ -2,7 +2,7 @@
 
 Hi there!
 
-Welcome to the heap of repositories that form the insight into my coding practices & developments.
+Welcome to the heap of repositories that comprise of my coding practices & developments.
 
 > Currently I'm maintaining my "Vale Project", it serves as a refresher project - allowing me to maintain my skills and explore new programming techniques.
 > You can view this endeavour and it's sub repositories here: 
