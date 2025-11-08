@@ -8,7 +8,7 @@ Welcome to the heap of repositories that I keep to reflect implementations I've 
 > ### [> Vale Project:</br>Java | JDBC, SQL | Spring API | HTML/CSS | JS, React](https://github.com/MorickClive/Project-Vale#project-vale)
 
 Hosted on GitPages and the exploration of React & Next.js, you can check out my portfolio site below:
-> #### [GitPages Website](https://morickclive.github.io/) (currently down for maintenance)
+> #### [GitPages Website](https://morickclive.github.io/) (currently in migration)
 
 ---
 
