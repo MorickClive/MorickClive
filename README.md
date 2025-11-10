@@ -2,12 +2,12 @@
 
 Hi there!
 
-Welcome to the heap of repositories that I keep to reflect implementations I've completed as part of my growing portfolio of skills!
+Welcome to the heap of repositories —a space for development and research into various technologies and frameworks!
 
-> For those checking out areas and technologies I work on, check out my Vale project repo; a cluster of sub-repositories focusing on different the implementation of a full-stack application using Java, SQL, JUnit, Mockito, Javascript and more!
+> For those checking out the explored technologies, you might be interested in my Vale project repo; a set of sub-repositories - focusing on implementation of a full-stack application using Java, SQL, JUnit, Mockito, Javascript and more!
 > ### [> Vale Project:</br>Java | JDBC, SQL | Spring API | HTML/CSS | JS, React](https://github.com/MorickClive/Project-Vale#project-vale)
 
-Hosted on GitPages and the exploration of React & Next.js, you can check out my portfolio site below:
+Hosted on GitPages and the exploration of React & Next.js(now migrating to Vite), you can check out my portfolio site below:
 > #### [GitPages Website](https://morickclive.github.io/) (currently in migration)
 
 ---
